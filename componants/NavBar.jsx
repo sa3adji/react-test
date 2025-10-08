@@ -9,6 +9,19 @@ export default function NavBar() {
             <li>home</li>
             <li>order</li>
             <li>wishlist</li>
+            <li>wishlist</li>
+            <li>wishlist</li>
+            <li>wishlist</li>
+            <li>wishlist</li>
+            <li>wishlist</li>
+            <li>wishlist</li>
+            <li>wishlist</li>
+            <li>wishlist</li>
+            <li>wishlist</li>
+            <li>wishlist</li>
+            <li>wishlist</li>
+            <li>wishlist</li>
+            <li>wishlist</li>
             </ul>
         </div>
     </>
